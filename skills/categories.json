@@ -4,6 +4,11 @@
       "id": "有趣的",
       "label": "有趣的",
       "icon": "📁"
+    },
+    {
+      "id": "前端开发",
+      "label": "前端开发",
+      "icon": "📁"
     }
   ],
   "skillCategories": {
