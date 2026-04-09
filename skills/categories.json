@@ -6,5 +6,9 @@
       "icon": "📁"
     }
   ],
-  "skillCategories": {}
+  "skillCategories": {
+    "frontend-design": [
+      "有趣的"
+    ]
+  }
 }
